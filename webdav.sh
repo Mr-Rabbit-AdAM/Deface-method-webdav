@@ -23,7 +23,7 @@ echo -e "\e[1;31m
 
 echo ""
 
-echo -e "\e[1;95m      || =====> Deface Methon Webdav Script <===== || "
+echo -e "\e[1;95m      || =====> Deface Method Webdav Script <===== || "
 echo ""
 echo -e "\e[1;32m _______________ code  By Ad A M (Mr.bunny🐰)_______________\e[1;32m"
 echo ""

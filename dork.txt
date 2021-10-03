@@ -1,6 +1,5 @@
 Google dork:
 
-
 inurl:.co.id/*.asp
 inurl:.ah.cn/*.asp
 inurl:.bj.cn/*.asp
